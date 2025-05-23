@@ -1,0 +1,24 @@
+# macOS system files
+.DS_Store
+
+# GitHub Pages output (for future Jekyll use)
+_site/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Node.js (future-proofing if tools/scripts get added)
+node_modules/
+
+# OS metadata (Linux/Windows/Dropbox etc.)
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.orig
+
+# VS Code or editor folders
+.vscode/
+.idea/
